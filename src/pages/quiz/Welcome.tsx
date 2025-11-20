@@ -13,7 +13,7 @@ const Welcome = () => {
   return (
     <QuizLayout showProgress={false}>
       <div className="space-y-8 text-center">
-        <div className="space-y-6">
+        <div className="space-y-6 pt-8 md:pt-12">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
             AI Is Creating the Next Wave of Millionaires.
           </h1>
